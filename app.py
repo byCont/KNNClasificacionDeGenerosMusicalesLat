@@ -128,7 +128,7 @@ st.write("Este algoritmo utiliza el algoritmo de clasificación K-Nearest Neighb
 
 # Descripción de géneros musicales
 st.write("El algoritmo puede clasificar archivos de audio en los siguientes géneros musicales:")
-st.write("**Bachata**", "~**Clasical**", "~**Disco**", "~**Hip Hop/Rap**", "~**Metal**", "~**Pop**", "~**Reggae**", "~**Reggaeton**", "~**Rock**", "~**Salsa**.") 
+st.write("**Bachata**", "~**Clasical**", "~**Hip Hop/Rap**", "~**Metal**", "~**Pop**", "~**Reggae**", "~**Reggaeton**", "~**Rock**", "~**Salsa**.") 
 
 
 # Contenido adicional de la aplicación
@@ -163,7 +163,7 @@ else:
 # Créditos
 st.sidebar.markdown("---")
 st.sidebar.markdown("Adaptado por: Daniel Cont")
-st.sidebar.markdown("[GitHub Repository](https://github.com/tu-usuario/repo)")
+st.sidebar.markdown("[GitHub Repository](https://github.com/byCont/KNNClasificacionDeGenerosMusicalesLat.git)")
 
 # Footer
 st.sidebar.markdown("---")
